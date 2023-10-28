@@ -1,0 +1,9 @@
+{
+    "name": "Synonymity",
+    "version": 1.0,
+    "manifest_version": 2,
+    "description": "Extension to quickly and efficiently find definitions and synonyms of words.",
+    "browser_action": {
+        "default_popup": "index.html"
+    }
+}
